@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WxUN-7oo2ohLaRUl42eNDHi_EYBL6O5uLA&s
+image: https://t3.ftcdn.net/jpg/05/99/53/58/360_F_599535831_pwQFVG0qtf6ksLXeVTnUwFMvoW5H0WiS.jpg
 
 title: "Video Game Project"
 date: 2022
