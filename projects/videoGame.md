@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://th.bing.com/th/id/OIP.JnuQZLAHaR4DU2m5mxz1xAHaHa?rs=1&pid=ImgDetMain[![Screenshot 2024-08-28 123333](https://github.com/user-attachments/assets/8ed0d3e0-fba4-4836-8c9d-0e2169f77c2b)](https://th.bing.com/th/id/OIP.JnuQZLAHaR4DU2m5mxz1xAHaHa?rs=1&pid=ImgDetMain)
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WxUN-7oo2ohLaRUl42eNDHi_EYBL6O5uLA&s
 
 title: "Video Game Project"
 date: 2022
