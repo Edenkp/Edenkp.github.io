@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cyberpunk-gaming-controller-gamepad-joystick-illustration_691560-5812.avif
+image: img/gaming.jpg
 title: "Video Game Project"
 date: 2022
 published: true
