@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/UH-Bands.jpg
-title: "UH Bands"
+title: "University of Hawaii Rainbow Warrior Marching Band"
 date: 2022
 published: true
 labels:
   - Music
-summary: "A collection of performances that I've performed in since my time at the University of Hawaii at Manoa."
+summary: "A collection of performances that I've performed in since my time at the University of Hawaii at Manoa with the Rainbow Warrior Marching Band."
 ---
 
 Music has played a huge role in my life. From starting off learning piano at the age of 7 years old, to now being a member
