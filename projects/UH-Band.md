@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/UH-Bands.jpg
 title: "UH Bands"
 date: 2022
 published: true
@@ -20,4 +20,5 @@ consists of students ranging from many different majors, whether they are music 
 Below is a playlist of shows/performances that I have been a part of:
 
 <a href="https://youtube.com/playlist?list=PLzggQyD7SnE3MdKq6f8h3F60gw4-UVpjv&si=MC-Dl1PFyCFTVPu1">UH Marching Band 2023</a>
+
 <a href="https://youtube.com/playlist?list=PLzggQyD7SnE21I7JNV3PXJXJdkv9qUQ5v&si=_EnVNk7F1pfQerHE">UH Marching Band 2022</a>
