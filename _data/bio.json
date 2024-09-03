@@ -6,16 +6,17 @@
     "email": "edenkp@hawaii.edu",
     "phone": "808-745-8669",
     "website": "https://Edenkp.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I'm looking towards working in the cybersecurity field; however, I am open to getting a feel of other CS fields. I expect to graduate from the University of Hawaii at Manoa in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "Edenkp", "url": "http://github.com/Edenkp" },
+      { "network": "github", "username": "Edenkp", "url": "http://github.com/edenkp" },
       { "network": "linkedin", "username": "Edenkp", "url": "https://www.linkedin.com/in/eden-parungao/" }
     ]
   },
   "interests": [
     { "name": "Video Games" },
     { "name": "Music" },
+    { "name": "Social Media" },
   ],
   "skills": [
     {
