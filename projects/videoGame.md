@@ -11,6 +11,10 @@ labels:
 summary: "Unfinished. This was a project assigned during my senior year of high school. Because I was a graduating senior, turning in this project wasn't necessary. This project was created to help students practice using Javascript, as well as HTML/CSS, by giving us the goal to create our own video game."
 ---
 
+<img src="starting-screen.png">
+<img src="instructions.png">
+<img src="gameplay.png">
+
 This game does not have a name. 
 
 The general idea of the game is to travel through space without dying. There are multiple stages, each with
