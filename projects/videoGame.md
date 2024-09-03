@@ -11,9 +11,9 @@ labels:
 summary: "Unfinished. This was a project assigned during my senior year of high school. Because I was a graduating senior, turning in this project wasn't necessary. This project was created to help students practice using Javascript, as well as HTML/CSS, by giving us the goal to create our own video game."
 ---
 
-<img src="starting-screen.png" width = "100" height = "100">
-<img src="instructions.png" width = "100" height = "100">
-<img src="gameplay.png" width = "100" height = "100">
+<img src="starting-screen.png" width = "200" height = "100">
+<img src="instructions.png" width = "200" height = "100">
+<img src="gameplay.png" width = "200" height = "100">
 
 This game does not have a name. 
 
