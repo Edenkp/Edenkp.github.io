@@ -11,11 +11,11 @@ labels:
 summary: "I took musical pieces that I liked and transcribed it so I could also play it myself."
 ---
 
-<div class="text-center p-4">
+/*<div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+</div>*/
 
 After immersing myself into the world of music for the past 8+ years, I have come to appreciate the genre of classical music, as well as music played by
 wind ensembles. Sometimes, I may find a lick, or a passage, from a piece that I'm listening to and try to transcribe or translate it so I can read and play it myself. 
