@@ -11,8 +11,8 @@ labels:
 summary: "I took musical pieces that I liked and transcribed it so I could also play it myself."
 ---
 
-  <img width="200px" src="musescore_logo.png" class="img-thumbnail" >
-  <img src="img/musescore_logo.png">
+  <img class="img-fluid" src="img/musescore_logo.png">
+
 
 After immersing myself into the world of music for the past 8+ years, I have come to appreciate the genre of classical music, as well as music played by
 wind ensembles. Sometimes, I may find a lick, or a passage, from a piece that I'm listening to and try to transcribe or translate it so I can read and play it myself. 
