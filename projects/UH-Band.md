@@ -13,7 +13,7 @@ summary: "A collection of performances that I've performed in since my time at t
 <img src="uh-marching-band.jpg">
 
 Music has played a huge role in my life. From starting off learning piano at the age of 7 years old, to now being a member
-of the biggest music organizations at the university. 
+of the biggest music organization at the university. 
 
 The University of Hawaii Rainbow Warrior Marching Band is well known across campus, as well as across the island. The band can be seen at sporting events, such as
 football games, basketball games, and volleyball games. This group consists of over 250+ members that come from different states and different countries. It also 
