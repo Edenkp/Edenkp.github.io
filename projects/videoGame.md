@@ -17,6 +17,7 @@ summary: "Unfinished. This was a project assigned during my senior year of high 
   <img src="gameplay.png" width = "400" height = "200">
 </div>
 
+
 This game does not have a name. 
 
 The general idea of the game is to travel through space without dying. There are multiple stages, each with
