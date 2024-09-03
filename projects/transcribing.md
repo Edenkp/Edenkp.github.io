@@ -11,7 +11,7 @@ labels:
 summary: "I took musical pieces that I liked and transcribed it so I could also play it myself."
 ---
 
-  <img src="musescore_logo.png" width="42" height="42">
+  <img src="musescore_logo.png" width="200" height="200">
 
 
 After immersing myself into the world of music for the past 8+ years, I have come to appreciate the genre of classical music, as well as music played by
