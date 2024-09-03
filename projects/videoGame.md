@@ -12,9 +12,9 @@ summary: "Unfinished. This was a project assigned during my senior year of high 
 ---
 
 <div>
-  <img src="starting-screen.png" width = "200" height = "100">
-  <img src="instructions.png" width = "200" height = "100">
-  <img src="gameplay.png" width = "200" height = "100">
+  <img src="starting-screen.png" width = "400" height = "200">
+  <img src="instructions.png" width = "400" height = "200">
+  <img src="gameplay.png" width = "400" height = "200">
 </div>
 
 This game does not have a name. 
