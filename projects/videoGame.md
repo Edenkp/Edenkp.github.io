@@ -22,8 +22,8 @@ This game does not have a name.
 
 The general idea of the game is to travel through space without dying. There are multiple stages, each with
 its own obstacle. For example, stage one requires the player to traverse through space while avoiding colliding
-with asteroids for a certain amount of time. 
+with asteroids for a certain amount of time. This project served as a 'final project' for the class. 
 
-This project served as a 'final project' for the class. For months, students had the opportunity to work on their game during 
-class time. This project demonstrated different methods used in development. For instance, students demonstrated how to input sound 
-into their projects, much like how they do in video games.
+Because this project was not a group project, I was responsible for everything. From game design, to creating or finding images/figures for my game, etc. Although it was a very difficult experience, it was fun because it gave me some insight on how game designing might be like if I chose it as a career. 
+
+For months, students had the opportunity to work on their game during class time. This project demonstrated different methods used in development. For instance, students demonstrated how to input sound into their projects, much like how they do in video games. What I learned from working on my video game project was how hard it is to design video games. I also needed to learn how to use different materials/methods that are used often in video games. 
