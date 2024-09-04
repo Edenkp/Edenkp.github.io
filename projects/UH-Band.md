@@ -24,7 +24,7 @@ My job as a member of the band is to participate and play at games and/or any ev
 
 Throughout my time in this group, I have learned a lot about working in a much larger group/organization. It has helped me to improve my social skills and better communicate with other people. Not only that, but it has also helped me to learn about having pride in things.
 
-Below is a playlist of shows/performances that I have been a part of:
+Below are playlists of shows/performances that I have been a part of:
 
 <a href="https://youtube.com/playlist?list=PLzggQyD7SnE2QFrjktKHPRveFILnY0yAO&si=XlEDooacpNFBYlWb">UH Marching Band 2024</a>
 
