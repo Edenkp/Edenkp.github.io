@@ -12,7 +12,7 @@ labels:
 summary: "One of the first websites that I made for class project."
 ---
 
-  <img src="replit.png" width="200" height="200">
+  <img src="replit.png">
 
 This was one of the first website projects that I did in my first coding class in high school. For this project, we were told to create a made up website for a shop. This meant we would need to create a made up brand or shop name, and a website that would go with the made-up shop. For our website, we were required to have multiple html pages with working links that would lead to the other pages or the home page.
 
