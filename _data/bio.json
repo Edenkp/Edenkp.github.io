@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "edenkp", "url": "http://github.com/edenkp" },
-      { "network": "linkedin", "username": "eden", "url": "https://www.linkedin.com/in/edenkp/" }
+      { "network": "linkedin", "username": "edenkp", "url": "https://www.linkedin.com/in/edenkp/" }
     ]
   },
   "interests": [
