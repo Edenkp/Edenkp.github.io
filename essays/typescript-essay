@@ -10,8 +10,6 @@ labels:
   - TypeScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 # Exploring TypeScript: A Newcomer's Perspective
 
 “What is TypeScript?” That was the first question I asked myself when hearing that we would be learning TypeScript for my ICS 314 course. I had absolutely no idea what TypeScript was, nor did I know that it even existed. 
