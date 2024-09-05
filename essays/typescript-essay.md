@@ -34,7 +34,7 @@ When first learning about WOD’s, I already started to feel very stressed and o
 The WOD’s are all timed, and if not completed within the time limit, then you receive no points. The code you create also needs to work, so if you submit code but it doesn’t work, you will not receive points for it. 
 Basically, it’s pass or fail. Nothing else. Although they can be stressful, I think they serve as good practice and really get us to learn how to be able to create code on the spot. It also gives us an idea of whether or not we should study the material more. 
 
-## Conclusion
+## Final Thoughts
 
 While I’m sure there is still a lot for me to learn for TypeScript, overall, I think TypeScript was easy to learn since it’s JavaScript, but with a little more to it. 
 If someone were to learn it, I think it would be simple only if they have experience with JavaScript. If someone with zero experience with JavaScript, let alone coding, were to try and learn, it would be a lot more difficult to understand. 
