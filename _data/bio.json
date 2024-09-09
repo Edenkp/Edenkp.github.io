@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript" ]
     },
   ],
   "education": [
@@ -38,7 +38,6 @@
   "volunteer": [
     {
       "organization": "President William McKinley High School",
-      "website": "https://www.mckinley.k12.hi.us/#:~:text=1039%20S.%20King%20St.%20Honolulu,%20HI%2096814.%20(808)",
       "position": "Marching Band Technician",
       "startDate": "2024-08-06",
       "endDate": "Present",
