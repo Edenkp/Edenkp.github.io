@@ -10,6 +10,9 @@ labels:
   - TypeScript
 ---
 
+<img src="WOD1-time.png">
+
+
 # Exploring TypeScript: A Newcomer's Perspective
 
 “What is TypeScript?” That was the first question I asked myself when hearing that we would be learning TypeScript for my ICS 314 course. I had absolutely no idea what TypeScript was, nor did I know that it even existed. 
@@ -26,7 +29,7 @@ Because TypeScript is like an “extension” to JavaScript, there wasn’t too 
 
 To further enhance my skills, the ICS 314 course assigned WOD’s, which are known as “workout of the day”. WOD’s are meant to assess us students on how well we know the materials from the week. 
 In this case, the WOD’s we worked on so far have been on simple scenarios, such as converting temperature. These WOD’s have helped us to not only practice using TypeScript, but to also create and implement code within a certain amount of time. 
-This is supposed to help us when we’re out in the real world getting jobs or when getting interviewed. 
+This is supposed to help us when we’re out in the real world getting jobs or when getting interviewed. In the image above is my time from the first WOD we needed to complete as an assignment. We were given 8 minutes to complete it. It took me two attempts to complete it where it took me over 8 minutes to complete on my first try. On my second try, I was able to complete it within 4 minutes.
 
 ## My First Thoughts on WOD's
 
