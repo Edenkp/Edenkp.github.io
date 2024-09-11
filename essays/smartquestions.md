@@ -8,6 +8,7 @@ published: false
 labels:
   - Coding
   - Smart Questions
+  - StackOverflow
 ---
 
 <img width="200px" 
@@ -28,7 +29,7 @@ After reading Eric Raymond's [How to ask questions the smart way](http://www.cat
 - Find an answer by experimentation or inspection.
 - Ask a skilled friend for an answer.
 - Find an answer by reading source code (if you are a programmer).
-Doing these things and letting others know that you have done these things will tell potential responders that you have done your part by spending time trying to figure it out on your own. This shows other people that not only have you learned some things throughout the time you spent trying to find your answer, but also that you're not being lazy. Some questions can be solved simply by looking on the internet, so to avoid wasting people's time when you can solve you question by doing exactly that, you'll more than likely get people to answer your question. For example, [this question](https://stackoverflow.com/questions/78961469/default-serialization-option-for-reference-handler-while-setting-up-jsonserializ)
+Doing these things and letting others know that you have done these things will tell potential responders that you have done your part by spending time trying to figure it out on your own. This shows other people what you have learned so far while trying to find a solution and also that you're not being lazy. Some questions can be solved simply by looking on the internet, so to avoid wasting people's time when you can solve you question by doing exactly that, you'll more than likely get people to answer your question. For example, this person asks about [setting a default serialization option for reference handlers](https://stackoverflow.com/questions/78961469/default-serialization-option-for-reference-handler-while-setting-up-jsonserializ). I thought this could be considered a smart question because they tell us what they know so far in their current problem and provide us some code with it. Towards the end, they also notify readers that he already tried overriding something in their code, but it still didn't work for them. The responses for this question have been very helpful by explaining other ways to solve the problem. The responses even provided some code to be used to help.
 
 ## Improving a Question
 
