@@ -12,7 +12,7 @@ labels:
 ---
 
 # Learning Front End Development using UI Frameworks
-<img src="front-end-development.jpg" width=200px>
+<img src="front-end-development.jpg" width=600px>
 
 ## What are UI frameworks? What is front end development?
 
